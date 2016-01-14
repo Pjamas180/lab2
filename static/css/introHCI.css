@@ -32,3 +32,26 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+p {
+     font-variant: small-caps;
+}
+
+/*
+.project p {
+     font-variant: small-caps;
+}
+
+.project {
+     margin-left: 20px;
+}
+*/
+/*
+#me {
+     margin-left: 20px;
+     background-color: #06595A;
+     padding: 20px;
+     width: 290px;
+
+}
+*/
